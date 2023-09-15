@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/tobhey/NoRBERT)
+[![DOI](https://zenodo.org/badge/691948149.svg)](https://zenodo.org/badge/latestdoi/691948149) ![GitHub](https://img.shields.io/github/license/tobhey/NoRBERT_for_TLR)
 
 # NoRBERT for Requirements Classification in Traceability Link Recovery Datasets
 
