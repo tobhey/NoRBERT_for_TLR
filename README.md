@@ -3,7 +3,7 @@
 # NoRBERT for Requirements Classification in Traceability Link Recovery Datasets
 
 This respository contains all code needed to train and evaluate binary classifiers for predicting the functional aspects present in a requirement element.
-It is based on NoRBERT and applies it to a labeled dataset combined of the [relabeled Promise NFR dataset](https://doi.org/10.5281/zenodo.3309669) and a [labeled dataset of requirement elements from five traceability link recovery benchmark datasets](https://doi.org/10.5281/zenodo.7867845).
+It is based on [NoRBERT](https://doi.org/10.1109/RE48521.2020.00028) and applies it to a labeled dataset combined of the [relabeled Promise NFR dataset](https://doi.org/10.5281/zenodo.3309669) and a [labeled dataset of requirement elements from five traceability link recovery benchmark datasets](https://doi.org/10.5281/zenodo.7867845).
 
 ## Requirements
 You need to install [Jupyter](https://jupyter.org/install).
